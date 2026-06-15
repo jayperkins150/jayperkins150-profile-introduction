@@ -9,13 +9,9 @@ Get to know a bit about me
 <h1 align="center">Hi, I'm Jay Perkins</h1>
 <h2 align="center">Front-end Developer | React.js | JavaScript | HTML | CSS</h2>
 
----
-
 <div align="center">
 <a href="[https://github.com/jayperkins150]"><h2>View My GitHub Portfolio</h2></a>
 </div>
-
----
 
 <h2 align="center">About Me</h2>
 <p align="center">
