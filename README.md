@@ -11,7 +11,7 @@ Get to know a bit about me
 
 <div align="center">
   <a href="https://github.com/jayperkins150">
-    <h2>View My GitHub Portfolio</h2>
+    <strong>View My GitHub Portfolio</strong>
   </a>
 </div>
 
